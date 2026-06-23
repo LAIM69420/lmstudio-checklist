@@ -1,0 +1,12 @@
+{
+  "owner": "local",
+  "name": "lmstudio-checklist",
+  "type": "plugin",
+  "runner": "node",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "icon": "thumbnail.png",
+  "license": "MIT",
+  "description": "Create and manage task checklists in LM Studio. Track progress on multi-step projects with persistent lists.",
+  "categories": ["tools"]
+}
